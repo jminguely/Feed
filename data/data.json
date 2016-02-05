@@ -1,0 +1,14 @@
+{
+    "news": [
+                {
+                  "id": "1",
+                  "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque condimentum mi leo, vitae euismod ex fringilla ut. Pellentesque sit amet efficitur neque. Nulla accumsan, elit et vulputate fringilla, dolor risus mollis libero, non porta metus leo sed justo. Morbi condimentum lorem sit amet molestie viverra. Nulla ullamcorper arcu at leo congue, eu finibus lorem pharetra. Proin fermentum sapien sit amet velit euismod cursus. Phasellus rutrum ullamcorper nunc, ac fermentum orci feugiat et. Duis nulla diam, molestie congue sem eget, feugiat semper arcu."
+                },
+                {
+                  "id": "2",
+                  "content": "Etiam rutrum fringilla felis nec rutrum. Integer porta ligula eget odio commodo, a luctus nisi feugiat. Suspendisse potenti. Aliquam aliquam sodales sagittis. Suspendisse ante tortor, vulputate id laoreet et, cursus in dolor. Proin porta facilisis purus, ac scelerisque augue cursus congue. Ut dignissim non mauris iaculis condimentum. Sed quis lectus tempor, eleifend mi id, facilisis orci. Donec tristique arcu ligula, sed sodales felis dapibus interdum."
+                }
+
+            ]
+
+}
